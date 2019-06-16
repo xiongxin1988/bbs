@@ -1,5 +1,8 @@
 package com.itheima.domain;
 
+/*
+ * 用户登录角色
+ */
 public class SysRole {
 
     private Integer id;
