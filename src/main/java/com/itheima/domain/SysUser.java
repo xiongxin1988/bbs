@@ -1,5 +1,9 @@
 package com.itheima.domain;
 
+/**
+ *
+ * User
+ */
 public class SysUser {
     private Integer id;
     private String username;
